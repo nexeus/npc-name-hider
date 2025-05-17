@@ -1,0 +1,15 @@
+.npc-name-toggle {
+  margin: 5px;
+  padding: 5px 10px;
+  background-color: #4b4a44;
+  color: #fff;
+  border: 1px solid #000;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 12px;
+  z-index: 100;
+  position: relative;
+}
+.npc-name-toggle:hover {
+  background-color: #191814;
+}
